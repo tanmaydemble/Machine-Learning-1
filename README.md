@@ -1,0 +1,2 @@
+This repository includes code examples of various machine learning models that I learnt about over the period of January 2024 and April 2024. This repo includes implementation of various models such as linear regression,
+logistic regression, Linear Discriminant Analysis, Naive Bayes, KNN, Decision Trees, Ensemble Modelling including Bagging and Boosting. Some of the libraries I used during this project were sklearn, numpy, pandas and matplotlib.
